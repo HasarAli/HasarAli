@@ -2,7 +2,7 @@ I am Hasar Ali.
 
 I am in Re:code's bootcamp to learn Front-End Web Development.
 
-I have experience with C,Java, and Python.
+I have experience with C, Java, and Python.
 
 Courses I have done online:
 
