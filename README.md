@@ -2,7 +2,7 @@ I am Hasar Ali.
 
 I am in Re:code's bootcamp to learn Front-End Web Development.
 
-I have worked with HTML, CSS, Javascript and Python (Flask and Django) for developing websites.
+I have worked with HTML, CSS, Javascript and Python (Flask and Jinja) for developing websites.
 
 I have worked with C and Python to make programs with CLI in CS50.
 
@@ -12,7 +12,7 @@ I am familiar with both functional and OOP.
 
 These are the courses I have done online:
 
-CS50 from Harvard
+CS50 from HarvardX
 https://cs50.harvard.edu/x/2021/
 
 Java Programming I & II from University of Helsinki
