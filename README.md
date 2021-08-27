@@ -1,6 +1,6 @@
 I am Hasar Ali.
 
-I am in Re:code's bootcamp to learn Front-End Web Development.
+I have completed Re:coded's Front-End Web Development bootcamp.
 
 I have worked with HTML, CSS, Javascript and Python (Flask and Jinja) for developing websites.
 
