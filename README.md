@@ -1,4 +1,4 @@
-I am Hasar Ali.
+# Hello! This is Hasar Ali.
 
 I have completed Re:coded's Front-End Web Development bootcamp.
 
